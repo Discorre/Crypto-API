@@ -1,0 +1,8 @@
+{
+  "lots": ["RUB", "BTC", "ETH", "USDT", "USDC"],
+  "database_ip": "localhost",
+  "database_port": 5432,
+  "database_name": "exchange",
+  "database_user": "postgres",
+  "database_password": "password"
+}
